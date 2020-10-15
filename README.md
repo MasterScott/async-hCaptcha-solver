@@ -10,3 +10,9 @@ Credit to Boic and notverdict for initial creation
 * `pip install -r requirements.txt`
 * Set the site key and host in `main.py`
 * `py Async_hCaptcha.py`
+
+Example:
+```
+import async_hCaptcha,asyncio
+asyncio.run(async_hCaptcha.Hcaptcha_Handler('caspers.app','eaaffc67-ea9f-4844-9740-9eefd238c7dc'))
+```
