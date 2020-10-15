@@ -7,7 +7,9 @@ Credit to Boic and notverdict for initial creation
 
 
 # How to use
-Follow example below:
+`pip install -r requirements.txt`
+
+then follow example below:
 
 Example:
 ```
