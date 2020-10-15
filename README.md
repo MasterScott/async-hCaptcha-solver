@@ -8,8 +8,7 @@ Credit to Boic and notverdict for initial creation
 
 # How to use
 * `pip install -r requirements.txt`
-* Set the site key and host in `main.py`
-* `py Async_hCaptcha.py`
+Follow example below:
 
 Example:
 ```
