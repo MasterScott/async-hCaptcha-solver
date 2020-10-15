@@ -16,3 +16,8 @@ Example:
 import async_hCaptcha,asyncio
 asyncio.run(async_hCaptcha.Hcaptcha_Handler('caspers.app','eaaffc67-ea9f-4844-9740-9eefd238c7dc'))
 ```
+
+While functional it is not completely finished. 
+Ideally the use selenium would be replaced with pyppeteer, however I am not familiar enough with it to do that at the moment. 
+
+If you have any changes or requests please open an issue or a pull request. 
