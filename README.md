@@ -2,6 +2,7 @@
 an async request based hCaptcha solving using YOLO v3.
 
 Asynchronous fork of https://github.com/notverdict/hCaptcha-Solver-2.0
+
 Credit to Boic and notverdict for initial creation
 
 
