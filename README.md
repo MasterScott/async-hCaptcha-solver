@@ -7,7 +7,6 @@ Credit to Boic and notverdict for initial creation
 
 
 # How to use
-* `pip install -r requirements.txt`
 Follow example below:
 
 Example:
